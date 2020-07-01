@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5888C318-EC6C-4477-8514-1EBBCC5F4325}|Default">
+  <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testML.Model/ConsumeModel.cs">
+    <Files>
+      <File FileName="testML.Model/ConsumeModel.cs" Line="21" Column="27" />
+      <File FileName="testML.Model/ModelBuilder.cs" />
+      <File FileName="testML.Model/ModelInput.cs" />
+      <File FileName="testML.Model/ModelOutput.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test" expanded="True">
+            <Node name="test" expanded="True" />
+            <Node name="testML.Model" expanded="True">
+              <Node name="ConsumeModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
